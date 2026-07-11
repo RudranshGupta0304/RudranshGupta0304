@@ -100,32 +100,54 @@
 
 ## 🛒 Amazon Clone
 
-**Tech Stack:** React • JavaScript • CSS
+A modern **Amazon-inspired e-commerce web application** built using **React** and **Vite**, replicating the shopping experience with a clean and responsive interface.
+
+### 🌐 Live Demo
+
+🔗 **[View Live Demo](https://amazon-clone-huns.onrender.com)**
+
+### 📂 GitHub Repository
+
+🔗 **[Source Code](https://github.com/RudranshGupta0304/amazon-clone)**
+
+### 🛠 Tech Stack
+
+- ⚛️ React
+- ⚡ Vite
+- 🟨 JavaScript
+- 🎨 HTML5 & CSS3
 
 ### ✨ Features
 
-- Responsive UI
-- Product Search
-- Shopping Cart
-- Clean Component Architecture
+- 🔍 Smart Product Search
+- 🛒 Shopping Cart
+- 📱 Fully Responsive Design
+- ⚡ Fast & Optimized Performance
+- 🎨 Amazon-inspired User Interface
 
 ---
 
 ## 💻 DSA Repository
 
-- 500+ Problems Solved
-- Daily Practice
-- LeetCode
-- CodeChef
+A collection of my Data Structures & Algorithms solutions focused on interview preparation and problem-solving.
+
+### 🎯 Highlights
+
+- 💯 500+ Problems Solved
+- 🏅 CodeChef Gold Badge
+- 📚 Daily Practice
+- 🚀 Continuous Learning
 
 ---
 
-## 🤖 AI Projects
+## 🤖 AI Projects *(Coming Soon)*
 
-- AI Assistant
-- Automation
-- Agentic AI
-- Python
+Currently building AI-powered applications focusing on:
+
+- 🤖 AI Assistants
+- 🧠 Agentic AI
+- ⚙️ Automation
+- 🐍 Python Development
 
 ---
 
