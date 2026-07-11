@@ -1,28 +1,20 @@
 # 👋 Hi, I'm Rudransh Gupta
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=CSE+Student;Competitive+Programmer;Full+Stack+Developer;AI+%26+Agentic+AI+Explorer;Building+Projects+That+Solve+Real+Problems;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RudranshGupta0304&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/RudranshGupta0304?label=Followers&style=social"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=CSE+Student;Competitive+Programmer;Full+Stack+Developer;AI+%26+Agentic+AI+Explorer;Building+Projects+That+Solve+Real+Problems;Always+Learning+🚀" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech Computer Science Engineering Student**
 
-💻 Passionate about Competitive Programming, Full Stack Development and Open Source
+💻 Passionate about **Competitive Programming**, **Full Stack Development**, and **Open Source**
 
-🤖 Exploring Artificial Intelligence, Agentic AI & Automation
+🤖 Exploring **Artificial Intelligence**, **Agentic AI**, and **Automation**
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Data Structures & Algorithms
 - MERN Stack
@@ -30,31 +22,31 @@
 - Cloud Computing
 - Agentic AI
 
-🎯 Current Goals
+## 🎯 Current Goals
 
-- Crack MAANG
-- Build Impactful Products
-- Participate in Hackathons
-- Contribute to Open Source
-- Master AI Development
+- 🚀 Crack MAANG
+- 💡 Build Impactful Products
+- 🏆 Participate in Hackathons
+- 🌍 Contribute to Open Source
+- 🤖 Master AI Development
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+## 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
 </p>
 
-## Frameworks & Databases
+## ⚙️ Frameworks & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
 </p>
 
-## Tools
+## 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
@@ -96,15 +88,11 @@
 
 # 🏆 Achievements
 
-🏅 CodeChef Problem Solver Gold Badge
-
-💯 500+ Coding Problems Solved
-
-🚀 Building Full Stack Projects
-
-🤖 Exploring AI & Agentic AI
-
-🏆 Active Hackathon Learner
+- 🥇 CodeChef Problem Solver Gold Badge
+- 💯 Solved **500+ Coding Problems**
+- 🚀 Building Full Stack Projects
+- 🤖 Exploring AI & Agentic AI
+- 🏆 Active Hackathon Learner
 
 ---
 
@@ -112,11 +100,9 @@
 
 ## 🛒 Amazon Clone
 
-**Tech Stack**
+**Tech Stack:** React • JavaScript • CSS
 
-React • JavaScript • CSS
-
-✨ Features
+### ✨ Features
 
 - Responsive UI
 - Product Search
@@ -127,10 +113,10 @@ React • JavaScript • CSS
 
 ## 💻 DSA Repository
 
-- 500+ Problems
+- 500+ Problems Solved
+- Daily Practice
 - LeetCode
 - CodeChef
-- Daily Practice
 
 ---
 
@@ -145,12 +131,12 @@ React • JavaScript • CSS
 
 # 📚 Coding Profiles
 
-- 💛 CodeChef
-- 🟡 LeetCode
-- 🔵 Codeforces
-- 🟢 HackerRank
-
-*(Add profile links when you're ready.)*
+| Platform | Username | Highlights |
+|:---------|:---------|:-----------|
+| 💛 **CodeChef** | 🔗 [r_25_cse_0390](https://www.codechef.com/users/r_25_cse_0390) | 🏅 Problem Solver Gold • 500+ Problems |
+| 🟡 **LeetCode** | 🔗 [RudranshGupta0304](https://leetcode.com/u/RudranshGupta0304/) | 📈 Daily DSA Practice |
+| 🔵 **Codeforces** | 🔗 [Rudransh-Gupta0304](https://codeforces.com/profile/Rudransh-Gupta0304) | 🚀 Competitive Programming |
+| 🟢 **HackerRank** | 🔗 [rudransh0304](https://www.hackerrank.com/profile/rudransh0304) | 💻 Problem Solving |
 
 ---
 
@@ -158,29 +144,32 @@ React • JavaScript • CSS
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rudransh-gupta-7b438036b/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/rudransh-gupta-7b438036b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:rudranshgupta030408@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
+
+📧 **Email:** **rudranshgupta030408@gmail.com**
+
+💼 **LinkedIn:** **https://www.linkedin.com/in/rudransh-gupta-7b438036b/**
 
 ---
 
 # 📌 Current Focus
 
-✔ Mastering DSA
-
-✔ Building Full Stack Projects
-
-✔ Learning Agentic AI
-
-✔ Preparing for MAANG
-
-✔ Participating in Hackathons
+- ✔ Mastering Data Structures & Algorithms
+- ✔ Building Scalable Full Stack Applications
+- ✔ Learning Agentic AI
+- ✔ Preparing for MAANG Interviews
+- ✔ Participating in Hackathons
+- ✔ Contributing to Open Source
 
 ---
 
