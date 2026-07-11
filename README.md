@@ -1,66 +1,74 @@
-# 👋 Hi there, I'm Rudransh Gupta
+# 👋 Hi, I'm Rudransh Gupta
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student;Competitive+Programmer;Full+Stack+Developer;AI+%26+Agentic+AI+Explorer;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=CSE+Student;Competitive+Programmer;Full+Stack+Developer;AI+%26+Agentic+AI+Explorer;Building+Projects+That+Solve+Real+Problems;Always+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RudranshGupta0304&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/RudranshGupta0304?label=Followers&style=social" />
+
+<img src="https://komarev.com/ghpvc/?username=RudranshGupta0304&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/RudranshGupta0304?label=Followers&style=social"/>
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech CSE Student
+🎓 B.Tech Computer Science Engineering Student
 
-💻 Passionate about Competitive Programming & Full Stack Development
+💻 Passionate about Competitive Programming, Full Stack Development and Open Source
 
-🤖 Exploring AI, Agentic AI & Automation
+🤖 Exploring Artificial Intelligence, Agentic AI & Automation
 
-🌱 Currently learning
+🌱 Currently Learning
 
-* Data Structures & Algorithms
-* MERN Stack
-* System Design
-* Cloud Computing
+- Data Structures & Algorithms
+- MERN Stack
+- System Design
+- Cloud Computing
+- Agentic AI
 
-🎯 Goal
+🎯 Current Goals
 
-> Crack MAANG | Build Impactful Products | Contribute to Open Source
+- Crack MAANG
+- Build Impactful Products
+- Participate in Hackathons
+- Contribute to Open Source
+- Master AI Development
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
 </p>
 
-### Frameworks
+## Frameworks & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
 </p>
 
-### Tools
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RudranshGupta0304&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RudranshGupta0304&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RudranshGupta0304&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=RudranshGupta0304&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -76,7 +84,7 @@
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -86,84 +94,71 @@
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 🏆 Achievements
 
-*(Enable using GitHub Actions)*
+🏅 CodeChef Problem Solver Gold Badge
 
-<p align="center">
+💯 500+ Coding Problems Solved
 
-<img src="https://raw.githubusercontent.com/RudranshGupta0304/RudranshGupta0304/output/github-contribution-grid-snake.svg"/>
+🚀 Building Full Stack Projects
 
-</p>
+🤖 Exploring AI & Agentic AI
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RudranshGupta0304&theme=tokyonight&no-frame=true&row=1"/>
-
-</p>
+🏆 Active Hackathon Learner
 
 ---
 
 # 📌 Featured Projects
 
-### 🌐 Amazon Clone
+## 🛒 Amazon Clone
 
-React • CSS • JavaScript
+**Tech Stack**
 
-⭐ Responsive UI
+React • JavaScript • CSS
 
-⭐ Product Search
+✨ Features
 
-⭐ Shopping Cart
-
----
-
-### 🤖 AI Assistant
-
-Python
-
-OpenAI
-
-Automation
+- Responsive UI
+- Product Search
+- Shopping Cart
+- Clean Component Architecture
 
 ---
 
-### 🏆 Hackathon Project
+## 💻 DSA Repository
 
-AI + Web Development
-
-Problem Solving
+- 500+ Problems
+- LeetCode
+- CodeChef
+- Daily Practice
 
 ---
 
-### 💻 DSA Repository
+## 🤖 AI Projects
 
-500+ Problems
-
-CodeChef
-
-LeetCode
+- AI Assistant
+- Automation
+- Agentic AI
+- Python
 
 ---
 
 # 📚 Coding Profiles
 
-* 💛 CodeChef
-* 🟡 LeetCode
-* 🔵 Codeforces
-* 🟢 HackerRank
+- 💛 CodeChef
+- 🟡 LeetCode
+- 🔵 Codeforces
+- 🟢 HackerRank
+
+*(Add profile links when you're ready.)*
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="https://linkedin.com/in/(https://www.linkedin.com/in/rudransh-gupta-7b438036b/)">
+<a href="https://www.linkedin.com/in/rudransh-gupta-7b438036b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -175,8 +170,22 @@ LeetCode
 
 ---
 
+# 📌 Current Focus
+
+✔ Mastering DSA
+
+✔ Building Full Stack Projects
+
+✔ Learning Agentic AI
+
+✔ Preparing for MAANG
+
+✔ Participating in Hackathons
+
+---
+
 <p align="center">
 
-### ⭐ *"Code. Learn. Build. Repeat."*
+## ⭐ Code • Learn • Build • Repeat 🚀
 
 </p>
