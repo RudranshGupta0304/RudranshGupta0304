@@ -58,9 +58,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RudranshGupta0304&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=RudranshGupta0304&theme=tokyonight&hide_border=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=RudranshGupta0304&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -153,12 +151,12 @@ Currently building AI-powered applications focusing on:
 
 # 📚 Coding Profiles
 
-| Platform | Username | Highlights |
-|:---------|:---------|:-----------|
-| 💛 **CodeChef** | 🔗 [r_25_cse_0390](https://www.codechef.com/users/r_25_cse_0390) | 🏅 Problem Solver Gold • 500+ Problems |
-| 🟡 **LeetCode** | 🔗 [RudranshGupta0304](https://leetcode.com/u/RudranshGupta0304/) | 📈 Daily DSA Practice |
-| 🔵 **Codeforces** | 🔗 [Rudransh-Gupta0304](https://codeforces.com/profile/Rudransh-Gupta0304) | 🚀 Competitive Programming |
-| 🟢 **HackerRank** | 🔗 [rudransh0304](https://www.hackerrank.com/profile/rudransh0304) | 💻 Problem Solving |
+| Platform | Profile | Highlights |
+|:---------|:--------|:-----------|
+| 💛 **CodeChef** | [r_25_cse_0390](https://www.codechef.com/users/r_25_cse_0390) | 🏅 Gold Badge • 500+ Problems |
+| 🟡 **LeetCode** | [RudranshGupta0304](https://leetcode.com/u/RudranshGupta0304/) | 📈 Daily DSA Practice |
+| 🔵 **Codeforces** | [Rudransh-Gupta0304](https://codeforces.com/profile/Rudransh-Gupta0304) | 🚀 Competitive Programming |
+| 🟢 **HackerRank** | [rudransh0304](https://www.hackerrank.com/profile/rudransh0304) | 💻 Problem Solving |
 
 ---
 
